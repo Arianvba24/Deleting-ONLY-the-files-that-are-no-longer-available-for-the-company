@@ -1,1 +1,1 @@
-# Deleting-ONLY-the-files-that-are-no-longer-available-for-the-company
+In this project what we do is delete all the files that contain the word "REMOVE" in every file
